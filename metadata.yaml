@@ -1,0 +1,45 @@
+_repo: Sylvie-and-Bruno_620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Carroll
+description: "Sylvie and Bruno, first published in 1889, and its second volume Sylvie\
+  \ and Bruno Concluded published in 1893, form the last novel by Lewis Carroll published\
+  \ during his lifetime. Both volumes were illustrated by Harry Furniss.\nThe novel\
+  \ has two main plots: one set in the real world at the time the book was published\
+  \ (the Victorian era), the other in the fantasy world of Fairyland. While the latter\
+  \ plot is a fairy tale with many nonsense elements and poems, similar to Carroll's\
+  \ Alice books, the story set in Victorian Britain is a social novel, with its characters\
+  \ discussing various concepts and aspects of religion, society, philosophy and morality.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '620'
+  wikidata: Q1632505
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Fantasy'
+- GITenberg
+title: Sylvie and Bruno
+url: http://www.gutenberg.org/ebooks/620
+wikipedia:
+- https://fr.wikipedia.org/wiki/Sylvie_et_Bruno
+- https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%84%D9%81%D9%8A_%D9%88%D8%A8%D8%B1%D9%88%D9%86%D9%88
+- https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A3%E3%83%BC%E3%81%A8%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8E
+- https://de.wikipedia.org/wiki/Sylvie_und_Bruno
+- https://es.wikipedia.org/wiki/Silvia_y_Bruno
+- https://simple.wikipedia.org/wiki/Sylvie_and_Bruno
+- https://en.wikipedia.org/wiki/Sylvie_and_Bruno
+- https://it.wikipedia.org/wiki/Sylvie_e_Bruno
