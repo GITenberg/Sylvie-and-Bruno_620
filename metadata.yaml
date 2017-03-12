@@ -1,5 +1,8 @@
 _repo: Sylvie-and-Bruno_620
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carroll, Lewis
@@ -18,6 +21,8 @@ description: "Sylvie and Bruno, first published in 1889, and its second volume S
   \ Alice books, the story set in Victorian Britain is a social novel, with its characters\
   \ discussing various concepts and aspects of religion, society, philosophy and morality.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/620#Sylvie-and-Bruno
 gutenberg_issued: '1996-08-01'
 gutenberg_type: Text
 identifiers:
